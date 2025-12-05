@@ -273,7 +273,8 @@ Bot: ✅ Order Confirmed!
 ## 📊 Workflow Screenshots
 
 ### **Main Workflow Overview**
-![Complete Workflow](screenshots/01-complete-workflow.png)
+![Complete Workflow](<img width="1254" height="565" alt="Screenshot 2025-12-05 094332" src="https://github.com/user-attachments/assets/cb73c4a5-802f-4298-921a-9e3d0200c285" />
+
 
 ### **WhatsApp Chat Demo**
 ![Chat Example](screenshots/02-whatsapp-chat-demo.png)
